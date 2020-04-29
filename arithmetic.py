@@ -39,4 +39,6 @@ def power(num1, num2):
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
+    modulo = num1 % num2
+    return modulo
 
